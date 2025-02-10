@@ -15,7 +15,7 @@ router = APIRouter(
         status.HTTP_500_INTERNAL_SERVER_ERROR: {"description": "Internal server error"},
     },
 )
-
+git 
 # ------ CRUD Operations ------
 
 # Create a new product
